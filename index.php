@@ -93,17 +93,14 @@
 							<a href="https://docs.google.com/forms/d/1jg_gIi9bwGT8z5aF_cyj12b0Kw5zG8DQlLMAh-DiU70/" target="_blank">
 								<span class="menu-item-text">ASSESSMENT</span>
 							</a>
-							<!-- <ul class="sub-menu">
+							<ul class="sub-menu">
 							<li  class="menu-item-342 menu-item menu-item-type-post_type menu-item-object-page ">
-								<a href="http://www.travcutedu.com.ng">STUDY VISA </a>
+								<a href="https://docs.google.com/forms/d/e/1FAIpQLSegRTD_NPXe_tJkCwlXLSw1T_xzQyQkBgKdmKLYNcoIcZ2M4A/viewform">Australian Permanent Residence Assessment Form </a>
 							</li>
 							<li  class="menu-item-341 menu-item menu-item-type-post_type menu-item-object-page">
-								<a href="#">PERMANENT RESIDENT VISA</a>
+								<a href="https://docs.google.com/forms/d/e/1FAIpQLSdIEUXyz03eeDl_kViEZhvPuwrqd0uyxWVYwuVnmlpVbLJvXQ/viewform">Canadian Permanent Residence Assessment Form</a>
 							</li>
-							<li  class="menu-item-340 menu-item menu-item-type-post_type menu-item-object-page">
-								<a href="http://www.travcutvisa.com.ng" target="_blank">VISITING VISA</a>
-							</li>
-						</ul> -->
+						</ul>
 						</li>			
 						<li class="menu-item-81 menu-item menu-item-type-post_type menu-item-object-page   ">
 							<a href="#apr_news_article">
@@ -198,22 +195,19 @@
 							<li  class="menu-item-343 menu-item menu-item-type-post_type menu-item-object-page sf-std-menu         " ><a href="vision.php">VISION AND MISSION</a></li>
 						</ul> -->
 					</li>
-					<li  class="menu-item-35 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children sf-std-menu">
-						<a href="https://docs.google.com/forms/d/1jg_gIi9bwGT8z5aF_cyj12b0Kw5zG8DQlLMAh-DiU70/"target="_blank">
-							<span class="menu-item-text">ASSESSMENT</span>
-						</a>
-						<!-- <ul class="sub-menu">
+					<li  class="menu-item-37 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children   ">
+							<a href="https://docs.google.com/forms/d/1jg_gIi9bwGT8z5aF_cyj12b0Kw5zG8DQlLMAh-DiU70/" target="_blank">
+								<span class="menu-item-text">ASSESSMENT</span>
+							</a>
+							<ul class="sub-menu">
 							<li  class="menu-item-342 menu-item menu-item-type-post_type menu-item-object-page ">
-								<a href="http://www.travcutedu.com.ng">STUDY VISA </a>
+								<a href="https://docs.google.com/forms/d/e/1FAIpQLSegRTD_NPXe_tJkCwlXLSw1T_xzQyQkBgKdmKLYNcoIcZ2M4A/viewform">Australian Permanent Residence Assessment Form </a>
 							</li>
 							<li  class="menu-item-341 menu-item menu-item-type-post_type menu-item-object-page">
-								<a href="#">PERMANENT RESIDENT VISA</a>
+								<a href="https://docs.google.com/forms/d/e/1FAIpQLSdIEUXyz03eeDl_kViEZhvPuwrqd0uyxWVYwuVnmlpVbLJvXQ/viewform">Canadian Permanent Residence Assessment Form</a>
 							</li>
-							<li  class="menu-item-340 menu-item menu-item-type-post_type menu-item-object-page">
-								<a href="http://www.travcutvisa.com.ng" target="_blank">VISITING VISA</a>
-							</li>
-						</ul> -->
-					</li>
+						</ul>
+						</li>	
 					<li  class="menu-item-34 menu-item menu-item-type-post_type menu-item-object-page sf-std-menu">
 						<a href="#footer-wrap">
 							<span class="menu-item-text">CONTACT US</span>
@@ -721,11 +715,32 @@
 <a href="#">Visit Visa</a><br>
 <a href="#">Permanent Residence Visa</a></div>
 		</section>                                                                    </div>
-                                <div class="col-sm-3">
-                                                                            <section id="text-4" class="widget widget_text clearfix"><div class="widget-heading title-wrap clearfix"><h3 class="spb-heading"><span>QUICK LINKS</span></h3></div>			<div class="textwidget"><a href="https://docs.google.com/forms/d/1jg_gIi9bwGT8z5aF_cyj12b0Kw5zG8DQlLMAh-DiU70/" target="_blank">Assessment Form</a><br>
-<a href="http://www.travcutedu.com.ng">Travcut Educational</a><br/>
-</div>
-		</section>                                                                    </div>
+<div class="col-sm-3">
+<section id="text-4" class="widget widget_text clearfix">
+	<div class="widget-heading title-wrap clearfix">
+		<h3 class="spb-heading">
+			<span>QUICK LINKS</span>
+		</h3>
+	</div>			
+	<div class="textwidget">
+		<ul>
+			<li>
+				<a href="https://docs.google.com/forms/d/1jg_gIi9bwGT8z5aF_cyj12b0Kw5zG8DQlLMAh-DiU70/" target="_blank">Assessment Form</a>
+				<ul style="square">
+					<li>
+						<a href=" https://docs.google.com/forms/d/e/1FAIpQLSegRTD_NPXe_tJkCwlXLSw1T_xzQyQkBgKdmKLYNcoIcZ2M4A/viewform" target="_blank">Australian Permanent Residence Assessment Form</a>
+					</li>
+					<li>
+						<a href="https://docs.google.com/forms/d/e/1FAIpQLSdIEUXyz03eeDl_kViEZhvPuwrqd0uyxWVYwuVnmlpVbLJvXQ/viewform" target="_blank">Canadian Permanent Residence Assessment Form</a>
+					</li>
+				</ul>
+			</li>
+			
+		</ul>
+		
+		<a href="http://www.travcutedu.com.ng">Travcut Educational</a>
+	</div>
+</section>          </div>
                                 <div class="col-sm-3">
                                                                             <section id="text-7" class="widget widget_text clearfix"><div class="widget-heading title-wrap clearfix"><h3 class="spb-heading"><span>CONTACT US</span></h3></div>			<div class="textwidget">Work Bay</br>
 3-9, Olu-Koleosho Street Off Medical Road, Ikeja</br>

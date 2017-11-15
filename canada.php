@@ -94,16 +94,18 @@
     </ul> -->
 </li>
 <li  class="menu-item-37 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children   ">
-    <a href="https://docs.google.com/forms/d/1jg_gIi9bwGT8z5aF_cyj12b0Kw5zG8DQlLMAh-DiU70/">
-        <span class="menu-item-text">ASSESSMENT</span>
-    </a>
-    <!-- <ul  class="sub-menu">
-        <li  class="menu-item-342 menu-item menu-item-type-post_type menu-item-object-page">
-        <a href="#">STUDY VISA </a></li>
-        <li  class="menu-item-341 menu-item menu-item-type-post_type menu-item-object-page   "><a href="#">PERMANENT RESIDENT VISA</a></li>
-        <li  class="menu-item-340 menu-item menu-item-type-post_type menu-item-object-page   "><a href="#">VISIT VISA</a></li>
-    </ul> -->
-</li>			
+							<a href="https://docs.google.com/forms/d/1jg_gIi9bwGT8z5aF_cyj12b0Kw5zG8DQlLMAh-DiU70/" target="_blank">
+								<span class="menu-item-text">ASSESSMENT</span>
+							</a>
+							<ul class="sub-menu">
+							<li  class="menu-item-342 menu-item menu-item-type-post_type menu-item-object-page ">
+								<a href="https://docs.google.com/forms/d/e/1FAIpQLSegRTD_NPXe_tJkCwlXLSw1T_xzQyQkBgKdmKLYNcoIcZ2M4A/viewform">Australian Permanent Residence Assessment Form </a>
+							</li>
+							<li  class="menu-item-341 menu-item menu-item-type-post_type menu-item-object-page">
+								<a href="https://docs.google.com/forms/d/e/1FAIpQLSdIEUXyz03eeDl_kViEZhvPuwrqd0uyxWVYwuVnmlpVbLJvXQ/viewform">Canadian Permanent Residence Assessment Form</a>
+							</li>
+						</ul>
+						</li>				
 <li class="menu-item-81 menu-item menu-item-type-post_type menu-item-object-page   ">
     <a href="#apr_news_article">
         <span class="menu-item-text">BLOG</span>
@@ -192,22 +194,19 @@
         <li  class="menu-item-343 menu-item menu-item-type-post_type menu-item-object-page sf-std-menu         " ><a href="vision.php">VISION AND MISSION</a></li>
     </ul> -->
 </li>
-<li  class="menu-item-35 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children sf-std-menu">
-    <a href="https://docs.google.com/forms/d/1jg_gIi9bwGT8z5aF_cyj12b0Kw5zG8DQlLMAh-DiU70/">
-        <span class="menu-item-text">ASSESSMENT</span>
-    </a>
-    <!-- <ul class="sub-menu">
-        <li  class="menu-item-342 menu-item menu-item-type-post_type menu-item-object-page ">
-            <a href="#">STUDY VISA </a>
-        </li>
-        <li  class="menu-item-341 menu-item menu-item-type-post_type menu-item-object-page">
-            <a href="#">PERMANENT RESIDENT VISA</a>
-        </li>
-        <li  class="menu-item-340 menu-item menu-item-type-post_type menu-item-object-page">
-            <a href="#">VISITING VISA</a>
-        </li>
-    </ul> -->
-</li>
+<li  class="menu-item-37 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children   ">
+							<a href="https://docs.google.com/forms/d/1jg_gIi9bwGT8z5aF_cyj12b0Kw5zG8DQlLMAh-DiU70/" target="_blank">
+								<span class="menu-item-text">ASSESSMENT</span>
+							</a>
+							<ul class="sub-menu">
+							<li  class="menu-item-342 menu-item menu-item-type-post_type menu-item-object-page ">
+								<a href="https://docs.google.com/forms/d/e/1FAIpQLSegRTD_NPXe_tJkCwlXLSw1T_xzQyQkBgKdmKLYNcoIcZ2M4A/viewform">Australian Permanent Residence Assessment Form </a>
+							</li>
+							<li  class="menu-item-341 menu-item menu-item-type-post_type menu-item-object-page">
+								<a href="https://docs.google.com/forms/d/e/1FAIpQLSdIEUXyz03eeDl_kViEZhvPuwrqd0uyxWVYwuVnmlpVbLJvXQ/viewform">Canadian Permanent Residence Assessment Form</a>
+							</li>
+						</ul>
+						</li>	
 <li  class="menu-item-34 menu-item menu-item-type-post_type menu-item-object-page sf-std-menu">
     <a href="#footer-wrap">
         <span class="menu-item-text">CONTACT US</span>
